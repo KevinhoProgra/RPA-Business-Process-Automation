@@ -1,6 +1,0 @@
-{
-  "Name": "RPA Proyect",
-  "ProjectType": "Process",
-  "Description": "Robot que procesa facturas PDF, valida datos, detecta duplicados y registra resultados en SQL Server.",
-  "MainFile": "Main.xaml"
-}

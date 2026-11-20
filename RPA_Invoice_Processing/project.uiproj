@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Invoice_Processing",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
