@@ -1,0 +1,45 @@
+﻿archivo,proveedor,rfc,numero_factura,fecha,subtotal,iva,total,resultado_esperado,motivo
+factura_001.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01028,19/04/2026,7059.65,1129.54,8189.19,VALIDA,
+factura_002.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01027,11/6/2026,20634.16,3301.47,23935.63,VALIDA,
+factura_003.pdf,Papelería Central SA de CV,PCE020202CD2,F-01006,15/10/2026,15249.46,2439.91,17689.37,VALIDA,
+factura_004.pdf,Papelería Central SA de CV,PCE020202CD2,F-01014,2/10/2026,18378.43,2940.55,21318.98,VALIDA,
+factura_005.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01036,31/02/2026,9926.8,1588.29,11515.09,RECHAZADA,Fecha inválida (31/02/2026)
+factura_006.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01025,13/10/2026,24743.32,3958.93,28702.25,VALIDA,
+factura_007.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01023,1/10/2026,16056.97,2569.12,18626.09,VALIDA,
+factura_008.pdf,Mantenimiento Express SA de CV,MEX050505IJ5,F-01039,24/06/2026,18896.51,3023.44,21919.95,RECHAZADA,Proveedor inactivo
+factura_009.pdf,Papelería Central SA de CV,PCE020202CD2,F-01026,29/01/2026,17273.05,2763.69,20036.74,VALIDA,
+factura_010.pdf,Papelería Central SA de CV,PCE020202CD2,F-01018,29/05/2026,16700.95,2672.15,19373.1,VALIDA,
+factura_011.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01015,13/07/2026,24341.34,3894.61,28235.95,VALIDA,
+factura_012.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01009,23/03/2026,19090.78,3054.52,22145.3,VALIDA,
+factura_013.pdf,Papelería Central SA de CV,PCE020202CD2,F-01022,6/2/2026,17694.6,2831.14,20525.74,VALIDA,
+factura_014.pdf,Papelería Central SA de CV,PCE020202CD2,,13/03/2026,4000.35,640.06,4640.41,RECHAZADA,Falta número de factura
+factura_015.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01017,5/2/2026,5211.07,833.77,6044.84,VALIDA,
+factura_016.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01005,30/04/2026,2795.53,447.28,3242.81,VALIDA,
+factura_017.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01021,18/04/2026,9569.43,1531.11,11100.54,VALIDA,
+factura_018.pdf,Suministros del Norte SA de CV,SNO010101AB1,,22/07/2026,16558.25,2649.32,19207.57,RECHAZADA,Falta número de factura
+factura_019.pdf,Papelería Central SA de CV,PCE020202CD2,F-01031,,18752.23,3000.36,21752.59,RECHAZADA,Falta fecha
+factura_020.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01003,7/10/2026,17079.14,2732.66,19811.8,VALIDA,
+factura_021.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01019,21/02/2026,21455.28,3432.84,24888.12,VALIDA,
+factura_022.pdf,Papelería Central SA de CV,PCE020202CD2,F-01034,25/01/2026,12591.14,2014.58,14655.72,RECHAZADA,Subtotal + IVA no coincide con el total
+factura_023.pdf,Papelería Central SA de CV,PCE020202CD2,F-01002,13/03/2026,6499.85,1039.98,7539.83,VALIDA,
+factura_024.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01008,23/05/2026,5900.8,944.13,6844.93,VALIDA,
+factura_025.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01035,5/8/2026,15872.43,2539.59,18462.02,RECHAZADA,Subtotal + IVA no coincide con el total
+factura_026.pdf,Proveedor Fantasma SA de CV,FAN999999ZZ9,F-01041,15/05/2026,579.51,92.72,672.23,RECHAZADA,Proveedor no existe en el catálogo
+factura_027.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01004,17/01/2026,14967.07,2394.73,17361.8,VALIDA,
+factura_028.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01032,,18801.84,3008.29,21810.13,RECHAZADA,Falta fecha
+factura_029.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01016,5/7/2026,14025,2244,16269,VALIDA,
+factura_030.pdf,Papelería Central SA de CV,PCE020202CD2,F-01037,45/13/2026,6659.65,1065.54,7725.19,RECHAZADA,Fecha inválida (45/13/2026)
+factura_031.pdf,Mantenimiento Express SA de CV,MEX050505IJ5,F-01038,28/02/2026,17166.94,2746.71,19913.65,RECHAZADA,Proveedor inactivo
+factura_032.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01001,13/01/2026,16165.96,2586.55,18752.51,VALIDA,
+factura_033.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01011,22/06/2026,23951.72,3832.28,27784,VALIDA,
+factura_034.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01024,14/07/2026,4503.36,720.54,5223.9,VALIDA,
+factura_035.pdf,Papelería Central SA de CV,PCE020202CD2,F-01010,21/03/2026,8836.14,1413.78,10249.92,VALIDA,
+factura_036.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01023,1/10/2026,16056.97,2569.12,18626.09,DUPLICADA,Mismo proveedor y número (F-01023) que otra factura
+factura_037.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01013,16/05/2026,21263.61,3402.18,24665.79,VALIDA,
+factura_038.pdf,Proveedor Fantasma SA de CV,FAN999999ZZ9,F-01040,22/03/2026,7690.75,1230.52,8921.27,RECHAZADA,Proveedor no existe en el catálogo
+factura_039.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01020,6/7/2026,7310.35,1169.66,8480.01,VALIDA,
+factura_040.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01007,7/10/2026,18042.48,2886.8,20929.28,VALIDA,
+factura_041.pdf,Suministros del Norte SA de CV,SNO010101AB1,F-01033,23/04/2026,10285.31,1645.65,12230.96,RECHAZADA,Subtotal + IVA no coincide con el total
+factura_042.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01011,22/06/2026,23951.72,3832.28,27784,DUPLICADA,Mismo proveedor y número (F-01011) que otra factura
+factura_043.pdf,Servicios Logísticos MX SA de CV,SLM040404GH4,F-01012,19/02/2026,2772.27,443.56,3215.83,VALIDA,
+factura_044.pdf,Tecnología Integral SA de CV,TIN030303EF3,F-01007,7/10/2026,18042.48,2886.8,20929.28,DUPLICADA,Mismo proveedor y número (F-01007) que otra factura
