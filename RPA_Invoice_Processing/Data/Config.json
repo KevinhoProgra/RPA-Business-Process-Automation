@@ -1,6 +1,11 @@
 {
   "Settings": {
-    "logF_BusinessProcessName": "Framework"
+    "logF_BusinessProcessName": "RPA_Invoice_Processing",
+    "SqlConnectionString": "Server=DESKTOP-T1FGP81\\SQLEXPRESS;Database=RPA_Facturas;Integrated Security=True;TrustServerCertificate=True;",
+    "CarpetaEntrada": "Data/Entrada",
+    "CarpetaProcesadas": "Data/Procesadas",
+    "CarpetaRechazadas": "Data/Rechazadas",
+    "CarpetaReportes": "Data/Reportes"
   },
   "Constants": {
     "MaxRetryNumber": 0,
